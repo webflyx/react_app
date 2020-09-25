@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-site-color: #fede60;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+ul,
+ol,
+p,
+body {
+  margin: 0px;
+  padding: 0;
+}
+
+input,
+button,
+a {
+  outline: none;
+}
+
+button,
+input {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+}
